@@ -28,8 +28,8 @@ This snippet of code will convert the currwith real-time currency conversion rat
 - **EUR - Euro**
 - **GBP - Pound Sterling**
 - **HKD - HongKong Dollar**
-- **HRK - Croatian Kuna
-- **HUF - Hungarian Forint
+- **HRK - Croatian Kuna**
+- **HUF - Hungarian Forint**
 - **IDR - Indonesian Rupiah**
 - **ILS - Israeli New Shekel**
 - **INR - Indian Rupee**
