@@ -5,5 +5,5 @@ This snippet of code will compress your link length and make it too short upto g
 `$ pip install pyshorteners`
 ## Steps to Execution
 - Fork this repo and navigate to Link-Shortener folder
-- Run the main.py `$ ppip python main.py`
+- Run the main.py `$ pip python main.py`
 - Congrats!! You got the shortened link as the output
