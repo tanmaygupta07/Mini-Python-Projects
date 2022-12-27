@@ -16,7 +16,7 @@ This snippet of code will convert the currwith real-time currency conversion rat
 - Click on CONVERT button
 - We got the converted currencies as the output
 ## Currencies available to Convert
-- AUD - Australian Dollan
+- *AUD - Australian Dollan*
 - BGN - Bulgarian Lev
 - BRL - Brazilian Real
 - BTC - Bitcoin
