@@ -7,5 +7,5 @@ This snippet of code will solve the Sudoku using BackTracjing Alogorithm
 
 ## Steps to Execution
 - Fork this repo and navigate to Sudoku-Solver folder
-- Run this main.py $ python main.py
+- Run this main.py `$ python main.py`
 - Follow the instruction provided in the ouput to solve the sudoku
