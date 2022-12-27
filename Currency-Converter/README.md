@@ -2,7 +2,7 @@
 ## Description
 This snippet of code will convert the currwith real-time currency conversion rate
 ## Requirements
-`$ pip install tinket / sudo apt-get install python3-tk`
+`$ pip install tinkter`\n
 `$ sudo apt-get install python3-tk`
 `$ sudo apt-get install python3-pil python3-pil.imagetk`
 `$ pip install forex_python`
