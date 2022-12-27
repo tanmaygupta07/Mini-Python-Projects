@@ -2,9 +2,12 @@
 ## Description
 This snippet of code will convert the currwith real-time currency conversion rate
 ## Requirements
-`$ pip install tinkter`\n
+`$ pip install tinkter`
+
 `$ sudo apt-get install python3-tk`
+
 `$ sudo apt-get install python3-pil python3-pil.imagetk`
+
 `$ pip install forex_python`
 ## Steps to Execution
 - Fork this repo and navigate to Currency-Converter folder
