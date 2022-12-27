@@ -17,36 +17,36 @@ This snippet of code will convert the currwith real-time currency conversion rat
 - We got the converted currencies as the output
 ## Currencies available to Convert
 - **AUD - Australian Dollar**
-- **BGN - Bulgarian Lev
-- BRL - Brazilian Real
-- BTC - Bitcoin
-- CAD - Canadian Dollar
-- CHF - Swiss Franc
-- CNY - Chinese Yuan
-- CZK - Czech Koruna
-- DKK - Danish Krone
-- EUR - Euro
-- GBP - Pound Sterling
-- HKD - HongKong Dollar
-- HRK - Croatian Kuna
-- HUF - Hungarian Forint
-- IDR - Indonesian Rupiah
-- ILS - Israeli New Shekel
-- INR - Indian Rupee
-- JPY - Japanese Yen
-- KRW - South Korean Won
-- LTL - Lithuanian Litas
-- MXN - Mexican Peso
-- MYR - Malaysian Ringgit
-- NOK - Norwegian Krone
-- NZD - New Zealand Dollar
-- PHP - Philippine Peso
-- PLN - Polish Zloty
-- RON - Romanian Leu
-- RUB - Russian Rubble
-- SEK - Swedish Krona
-- SGD - Singapore Dollar
-- THB - Thai Baht
-- TRY - Turkish Lira
-- USD - United States Dollar
-- ZAR - South African Rand**
+- **BGN - Bulgarian Lev**
+- **BRL - Brazilian Real**
+- **BTC - Bitcoin**
+- **CAD - Canadian Dollar**
+- **CHF - Swiss Franc**
+- **CNY - Chinese Yuan**
+- **CZK - Czech Koruna**
+- **DKK - Danish Krone**
+- **EUR - Euro**
+- **GBP - Pound Sterling**
+- **HKD - HongKong Dollar**
+- **HRK - Croatian Kuna
+- **HUF - Hungarian Forint
+- **IDR - Indonesian Rupiah**
+- **ILS - Israeli New Shekel**
+- **INR - Indian Rupee**
+- **JPY - Japanese Yen**
+- **KRW - South Korean Won**
+- **LTL - Lithuanian Litas**
+- **MXN - Mexican Peso**
+- **MYR - Malaysian Ringgit**
+- **NOK - Norwegian Krone**
+- **NZD - New Zealand Dollar**
+- **PHP - Philippine Peso**
+- **PLN - Polish Zloty**
+- **RON - Romanian Leu**
+- **RUB - Russian Rubble**
+- **SEK - Swedish Krona**
+- **SGD - Singapore Dollar**
+- **THB - Thai Baht**
+- **TRY - Turkish Lira**
+- **USD - United States Dollar**
+- **ZAR - South African Rand**
