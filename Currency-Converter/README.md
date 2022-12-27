@@ -17,7 +17,7 @@ This snippet of code will convert the currwith real-time currency conversion rat
 - We got the converted currencies as the output
 ## Currencies available to Convert
 - **AUD - Australian Dollar**
-- BGN - Bulgarian Lev
+- **BGN - Bulgarian Lev
 - BRL - Brazilian Real
 - BTC - Bitcoin
 - CAD - Canadian Dollar
@@ -49,4 +49,4 @@ This snippet of code will convert the currwith real-time currency conversion rat
 - THB - Thai Baht
 - TRY - Turkish Lira
 - USD - United States Dollar
-- ZAR - South African Rand
+- ZAR - South African Rand**
